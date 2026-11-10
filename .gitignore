@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Virtual machine files are too large for git
+*.iso
+*.ova
+*.ovf
+*.vdi
+*.vmdk
+*.vbox
+*.vbox-prev
+
+# VPN configs contain personal access credentials
+*.ovpn
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
