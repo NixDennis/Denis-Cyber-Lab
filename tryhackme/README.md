@@ -8,7 +8,7 @@ This log tracks what I learn, not the answers. No flags or solutions for active 
 
 | Path | Status |
 | ---- | ------ |
-| Pre Security | In progress |
+| Pre Security | In progress (Introduction to Cyber Security and Computer Fundamentals modules done) |
 | Cyber Security 101 | Not started |
 
 ---
@@ -19,6 +19,7 @@ Newest first. One or two lines on what each room taught me, in my own words.
 
 | Date | Room | Path | What I learned |
 | ---- | ---- | ---- | -------------- |
+| 2026-11-13 | Cloud Computing Fundamentals | Pre Security | What cloud computing is, what it's used for and who the biggest cloud providers are. The service models IaaS, PaaS and SaaS, and how easily the cloud lets you create virtual machines or other resources on demand. The three deployment models: public, private and hybrid cloud. |
 | 2026-11-13 | Virtualisation Basics | Pre Security | The core virtualisation terms: a hypervisor runs virtual machines (VMs), each with its own operating system such as Kali Linux, while containers are lighter and share the host's operating system. Why virtualisation is used: lower costs, easier management, flexibility and portability. |
 | 2026-11-12 | Client-Server Basics | Pre Security | How the client-server relationship works: the client sends a request and the server sends back a response. The basic HTTP methods, such as GET and POST. How to open the browser's Developer Tools and use them to see the requests my browser sends and the responses the server returns. |
 | 2026-11-11 | Computer Types | Pre Security | Computers are built for different needs. Laptops and phones trade power for mobility, desktops give more power but stay in one place, and workstations are high-performance machines for demanding professional work. Servers run 24/7 without a screen or keyboard and provide services, such as hosting a website, to other computers. Embedded systems sit inside appliances and quietly do one dedicated job. |
