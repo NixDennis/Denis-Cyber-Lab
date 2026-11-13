@@ -1,6 +1,6 @@
 # Password Checker
 
-A small Python script that rates a password from 0 to 5. It starts at 5 and loses a point for every rule the password breaks, explaining what's missing.
+A small Python script that rates a password from 0 to 5. It starts at 5, loses a point for every rule the password breaks and prints what is missing.
 
 ## Rules
 
@@ -14,8 +14,8 @@ A small Python script that rates a password from 0 to 5. It starts at 5 and lose
 
 | Score | Verdict |
 | ----- | ------- |
-| 0–2 | Weak |
-| 3–4 | Medium |
+| 0-2 | Weak |
+| 3-4 | Medium |
 | 5 | Strong |
 
 ## Usage

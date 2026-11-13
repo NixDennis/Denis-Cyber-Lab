@@ -2,9 +2,7 @@
 
 My hands-on cybersecurity lab: what I learn on TryHackMe, what I test in my own virtual machines, and the tools I write in Python along the way.
 
-I'm Denis, a 3rd-year Automation and Computer Science student at "Gheorghe Asachi" Technical University of Iași. I'm building my cybersecurity fundamentals step by step, from networking and Linux to offensive and defensive security.
-
----
+I'm Denis, a 3rd-year Automation and Computer Science student at "Gheorghe Asachi" Technical University of Iași. I'm learning cybersecurity from the ground up: networking and Linux first, then offensive and defensive security.
 
 ## What's inside
 
@@ -16,22 +14,16 @@ I'm Denis, a 3rd-year Automation and Computer Science student at "Gheorghe Asach
 | [`lab/`](lab/) | My VirtualBox lab: machines, setup and experiments |
 | [`writeups/`](writeups/) | Step-by-step writeups, only for retired TryHackMe content |
 
----
-
 ## Learning roadmap
 
 1. **Pre Security** (TryHackMe): networking, how the web works, Linux and Windows basics
 2. **Cyber Security 101** (TryHackMe): cryptography, offensive and defensive fundamentals
 3. **Specialization path**: SOC Level 1, Web Fundamentals or a penetration testing path
 
----
-
 ## Related projects
 
 - [Port Scanner](https://github.com/NixDennis/Port-Scanner): a TCP port scanner with banner grabbing, in pure Python
 - [Vulnerability Scan Report](https://github.com/NixDennis/Vulnerability-Scan-Report): a Flask web app for non-intrusive vulnerability assessment of lab hosts, with PDF reports
-
----
 
 ## Rules I follow
 
