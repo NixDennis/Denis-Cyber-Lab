@@ -7,7 +7,7 @@ My practice environment in VirtualBox. Everything here runs on my own machine, o
 | Machine | Role | Status |
 | ------- | ---- | ------ |
 | Kali Linux | Attacker machine with security tools | Ready |
-| Metasploitable | Intentionally vulnerable target | Planned |
+| Metasploitable | Intentionally vulnerable target | Ready |
 
 ## Setup checklist
 
