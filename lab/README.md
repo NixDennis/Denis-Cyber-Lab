@@ -13,8 +13,8 @@ My practice environment in VirtualBox. Everything here runs on my own machine, o
 
 - [x] Install VirtualBox
 - [x] Create the Kali Linux VM
-- [ ] Create the Metasploitable VM
-- [ ] Put both on a host-only network so the vulnerable VM is never exposed to the internet
+- [x] Create the Metasploitable VM
+- [x] Put both on a host-only network so the vulnerable VM is never exposed to the internet
 - [ ] First test: scan Metasploitable from Kali
 
 ## Experiments
