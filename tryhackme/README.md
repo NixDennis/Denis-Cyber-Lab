@@ -15,6 +15,7 @@ Newest first. One or two lines on what each room taught me, in my own words.
 
 | Date | Room | Path | What I learned |
 | ---- | ---- | ---- | -------------- |
+| 2026-11-20 | Linux CLI Basics | Pre Security | How to work in the Linux terminal: moving between folders, finding files and reading their contents (`cd`, `ls`, `find`, `cat`). How to check system information from the command line, such as which user I'm logged in as (`whoami`), which Linux version is running (`uname`) and how much disk space is used (`df`). |
 | 2026-11-19 | Windows Basics | Pre Security | How to navigate Windows and find my way around its main tools. Using the built-in security features: the firewall to control which network traffic gets in and out, and Windows Security to scan files for malware. |
 | 2026-11-14 | Operating Systems | Pre Security | What an operating system does and the main operating systems in use today. A closer look at the Linux kernel, the core of the system that sits between the hardware and the programs, plus hands-on practice in a Linux environment. |
 | 2026-11-13 | Cloud Computing Fundamentals | Pre Security | What cloud computing is, what it's used for and who the biggest cloud providers are. The service models IaaS, PaaS and SaaS, and how easily the cloud lets you create virtual machines or other resources on demand. The three deployment models: public, private and hybrid cloud. |
