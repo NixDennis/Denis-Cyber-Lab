@@ -15,6 +15,7 @@ Newest first. One or two lines on what each room taught me, in my own words.
 
 | Date | Room | Path | What I learned |
 | ---- | ---- | ---- | -------------- |
+| 2026-11-21 | Operating System Security | Pre Security | How operating systems are protected through the CIA triad (confidentiality, integrity and availability) and the common weaknesses attackers exploit, such as weak passwords, weak file permissions and malicious programs. Why strong passwords and correctly set permissions are some of the most important defences for any system. |
 | 2026-11-20 | Windows CLI Basics | Pre Security | The Windows command line version of what I learned on Linux: moving between folders, listing and reading files (`cd`, `dir`, `type`) and checking system information, such as the current user (`whoami`), the Windows version and disk details (`systeminfo`). |
 | 2026-11-20 | Linux CLI Basics | Pre Security | How to work in the Linux terminal: moving between folders, finding files and reading their contents (`cd`, `ls`, `find`, `cat`). How to check system information from the command line, such as which user I'm logged in as (`whoami`), which Linux version is running (`uname`) and how much disk space is used (`df`). |
 | 2026-11-19 | Windows Basics | Pre Security | How to navigate Windows and find my way around its main tools. Using the built-in security features: the firewall to control which network traffic gets in and out, and Windows Security to scan files for malware. |
