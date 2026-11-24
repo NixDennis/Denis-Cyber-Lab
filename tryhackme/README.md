@@ -15,6 +15,7 @@ Newest first. One or two lines on what each room taught me, in my own words.
 
 | Date | Room | Path | What I learned |
 | ---- | ---- | ---- | -------------- |
+| 2026-11-25 | Database SQL | Pre Security | What a database is and how it stores information in tables made of rows and columns. How to use basic SQL queries, such as `SELECT`, to read the data I need from a table. |
 | 2026-11-24 | JavaScript: Simple Demo | Pre Security | A first look at JavaScript, the language that makes web pages interactive, and how to run simple code with variables, conditions and loops. |
 | 2026-11-24 | Python: Simple Demo | Pre Security | A first look at Python: running simple scripts with variables, conditions and loops, and why Python is so widely used in cybersecurity for automating tasks. |
 | 2026-11-23 | Data Encoding | Pre Security | The basics of character encoding: how text is turned into numbers a computer can store, starting with ASCII. How Unicode encodings such as UTF-8 and UTF-16 extend this to cover characters from every language. |
