@@ -15,7 +15,9 @@ Newest first. One or two lines on what each room taught me, in my own words.
 
 | Date | Room | Path | What I learned |
 | ---- | ---- | ---- | -------------- |
-| | 2026-11-23 | Data Encoding | Pre Security | The basics of character encoding: how text is turned into numbers a computer can store, starting with ASCII. How Unicode encodings such as UTF-8 and UTF-16 extend this to cover characters from every language. |
+| 2026-11-24 | JavaScript: Simple Demo | Pre Security | A first look at JavaScript, the language that makes web pages interactive, and how to run simple code with variables, conditions and loops. |
+| 2026-11-24 | Python: Simple Demo | Pre Security | A first look at Python: running simple scripts with variables, conditions and loops, and why Python is so widely used in cybersecurity for automating tasks. |
+| 2026-11-23 | Data Encoding | Pre Security | The basics of character encoding: how text is turned into numbers a computer can store, starting with ASCII. How Unicode encodings such as UTF-8 and UTF-16 extend this to cover characters from every language. |
 | 2026-11-22 | Data Representation | Pre Security | How computers represent data: numbers written in decimal, binary, octal and hexadecimal, and how to convert between these systems. How a colour is stored in 3 bytes (24 bits), one byte each for red, green and blue. |
 | 2026-11-21 | Operating System Security | Pre Security | How operating systems are protected through the CIA triad (confidentiality, integrity and availability) and the common weaknesses attackers exploit, such as weak passwords, weak file permissions and malicious programs. Why strong passwords and correctly set permissions are some of the most important defences for any system. |
 | 2026-11-20 | Windows CLI Basics | Pre Security | The Windows command line version of what I learned on Linux: moving between folders, listing and reading files (`cd`, `dir`, `type`) and checking system information, such as the current user (`whoami`), the Windows version and disk details (`systeminfo`). |
